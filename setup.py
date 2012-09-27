@@ -36,6 +36,16 @@ setup(name='policy.slrb',
       install_requires=[
           'setuptools',
           # -*- Extra requirements: -*-
+	  'collective.ckeditor',
+          'collective.easyslider',
+          'Solgema.fullcalendar',
+          'collective.collage.maps',
+          'collective.collage.easyslider',
+          'collective.gallery',
+          'quintagroup.analytics',
+          'collective.recaptcha',
+          'qi.portlet.TagClouds',
+          'plonetheme.slrb'
       ],
       extras_require={'test': ['plone.app.testing']},
       entry_points="""
