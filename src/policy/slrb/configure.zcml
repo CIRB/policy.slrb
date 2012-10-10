@@ -15,8 +15,10 @@
       provides="Products.GenericSetup.interfaces.EXTENSION"
       />
   <!-- -*- extra stuff goes here -*- -->
+  <include package="collective.ckeditor" />
   <include package="collective.easyslider" />
   <include package="Solgema.fullcalendar" />
+  <include package="Products.Collage" />
   <include package="collective.collage.innerfade" />
   <include package="collective.collage.maps" />
   <include package="collective.collage.easyslider" />
@@ -27,12 +29,13 @@
   <include package="Products.PloneFormGen" />
   <include package="collective.quickupload" />
   <include package="collective.contentstats" />
-  <include package="uintagroup.analytics" />
-  <include package="GChartWrapper" />
+  <include package="quintagroup.analytics" />
   <include package="Products.PressRoom" />
   <include package="products.geoloc" />
   <include package="Products.contentmigration" />
+  <include package="Products.LinguaPlone" />
   <include package="Products.Maps" />
   <include package="webcouturier.dropdownmenu" />
   <include package="plonetheme.slrb" />  
+  <include package="plone.app.theming" />
 </configure>

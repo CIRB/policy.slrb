@@ -1,4 +1,30 @@
 <?xml version="1.0"?>
 <metadata>
   <version>0001</version>
+  	<dependencies>
+		<dependency>profile-collective.ckeditor:default</dependency>
+                <dependency>profile-Solgema.fullcalendar:default</dependency>
+		<dependency>profile-Products.Collage:default</dependency>
+<!--       		<dependency>profile-collective.collage.innerfade:default</dependency>-->
+<!--        	<dependency>profile-collective.collage.maps:default</dependency>-->
+        	<dependency>profile-collective.collage.easyslider:default</dependency>
+        	<dependency>profile-collective.gallery:default</dependency>
+		<dependency>profile-quintagroup.analytics:QAnalytics</dependency>
+<!--        	<dependency>profile-collective.recaptcha:default</dependency>-->
+		<dependency>profile-qi.portlet.TagClouds:default</dependency>
+		<dependency>profile-Products.PloneFormGen:default</dependency>
+		<dependency>profile-collective.quickupload:default</dependency>
+		<dependency>profile-collective.contentstats:default</dependency>
+<!--		<dependency>profile-quintagroup.analytics:default</dependency>-->
+<!--		<dependency>profile-Products.PressRoom:default</dependency>-->
+		<dependency>profile-products.geoloc:default</dependency>
+<!--		<dependency>profile-Products.contentmigration:default</dependency>-->
+		<dependency>profile-Products.LinguaPlone:LinguaPlone</dependency>
+		<dependency>profile-Products.Maps:default</dependency>
+		<dependency>profile-webcouturier.dropdownmenu:default</dependency>
+		<dependency>profile-collective.easyslider:default</dependency>
+		<dependency>profile-collective.js.galleriffic:default</dependency>
+        	<dependency>profile-plone.app.theming:default</dependency>
+                <dependency>profile-plonetheme.slrb:default</dependency>
+	</dependencies>
 </metadata>
