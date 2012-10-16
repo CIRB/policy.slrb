@@ -10,13 +10,13 @@
         	<dependency>profile-collective.collage.easyslider:default</dependency>
         	<dependency>profile-collective.gallery:default</dependency>
 		<dependency>profile-quintagroup.analytics:QAnalytics</dependency>
-<!--        	<dependency>profile-collective.recaptcha:default</dependency>-->
+<!--        	<dependency>profile-collective.recaptcha:recaptcha-settings</dependency>-->
 		<dependency>profile-qi.portlet.TagClouds:default</dependency>
 		<dependency>profile-Products.PloneFormGen:default</dependency>
 		<dependency>profile-collective.quickupload:default</dependency>
 		<dependency>profile-collective.contentstats:default</dependency>
-<!--		<dependency>profile-quintagroup.analytics:default</dependency>-->
-<!--		<dependency>profile-Products.PressRoom:default</dependency>-->
+		<dependency>profile-quintagroup.analytics:QAnalytics</dependency>
+		<!--dependency>profile-Products.PressRoom:pr_view</dependency-->
 		<dependency>profile-products.geoloc:default</dependency>
 <!--		<dependency>profile-Products.contentmigration:default</dependency>-->
 		<dependency>profile-Products.LinguaPlone:LinguaPlone</dependency>
