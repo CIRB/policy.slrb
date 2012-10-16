@@ -5,7 +5,7 @@
 		<dependency>profile-collective.ckeditor:default</dependency>
                 <dependency>profile-Solgema.fullcalendar:default</dependency>
 		<dependency>profile-Products.Collage:default</dependency>
-<!--       		<dependency>profile-collective.collage.innerfade:default</dependency>-->
+<!--      	<dependency>profile-collective.collage.innerfade:default</dependency>-->
 <!--        	<dependency>profile-collective.collage.maps:default</dependency>-->
         	<dependency>profile-collective.collage.easyslider:default</dependency>
         	<dependency>profile-collective.gallery:default</dependency>
