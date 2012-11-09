@@ -36,6 +36,7 @@
   <include package="Products.LinguaPlone" />
   <include package="Products.Maps" />
   <include package="webcouturier.dropdownmenu" />
+  <include package="collective.anysurfer" />
   <include package="plonetheme.slrb" />  
   <include package="plone.app.theming" />
 </configure>

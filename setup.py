@@ -57,6 +57,7 @@ setup(name='policy.slrb',
           'Products.contentmigration',
           'Products.Maps',
           'webcouturier.dropdownmenu',
+	  'collective.anysurfer',
           'plonetheme.slrb'
       ],
       extras_require={'test': ['plone.app.testing']},

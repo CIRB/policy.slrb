@@ -25,6 +25,7 @@
 		<dependency>profile-collective.easyslider:default</dependency>
 		<dependency>profile-collective.js.galleriffic:default</dependency>
         	<dependency>profile-plone.app.theming:default</dependency>
+ 		<dependency>profile-collective.anysurfer:default</dependency>
                 <dependency>profile-plonetheme.slrb:default</dependency>
 	</dependencies>
 </metadata>
