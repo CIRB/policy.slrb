@@ -19,6 +19,7 @@
   <include package="collective.easyslider" />
   <include package="Solgema.fullcalendar" />
   <include package="Products.Collage" />
+  <include package="collective.collage.portlets" />
   <include package="collective.collage.innerfade" />
   <include package="collective.collage.maps" />
   <include package="collective.collage.easyslider" />
@@ -37,6 +38,7 @@
   <include package="Products.Maps" />
   <include package="webcouturier.dropdownmenu" />
   <include package="collective.anysurfer" />
+  <include package="cirb.footersitemap" />
   <include package="plonetheme.slrb" />  
   <include package="plone.app.theming" />
 </configure>
