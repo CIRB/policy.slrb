@@ -24,6 +24,7 @@
   <include package="collective.collage.maps" />
   <include package="collective.collage.easyslider" />
   <include package="collective.gallery" />
+  <include package="collective.contentrules.mailtogroup" />
   <include package="quintagroup.analytics" />
   <include package="collective.recaptcha" />
   <include package="qi.portlet.TagClouds" />
