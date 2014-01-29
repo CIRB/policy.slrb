@@ -1,5 +1,5 @@
+# -*- coding: utf-8 -*-
 from setuptools import setup, find_packages
-import os
 
 version = '1.4.dev0'
 
@@ -29,13 +29,13 @@ setup(name='policy.slrb',
       url='http://svn.plone.org/svn/collective/',
       license='gpl',
       packages=find_packages('src'),
-      package_dir = {'': 'src'},
+      package_dir={'': 'src'},
       namespace_packages=['policy', ],
       include_package_data=True,
       zip_safe=False,
       install_requires=[
           'setuptools',
-	      'collective.easyslider',
+          'collective.easyslider',
           'Solgema.fullcalendar',
           'Products.Collage',
           'collective.collage.portlets',
@@ -60,7 +60,7 @@ setup(name='policy.slrb',
           'Products.Maps',
           'webcouturier.dropdownmenu',
           'cirb.footersitemap',
- 	      'collective.anysurfer',
+          'collective.anysurfer',
           'plonetheme.slrb'
       ],
       extras_require={'test': ['plone.app.testing']},
@@ -69,6 +69,4 @@ setup(name='policy.slrb',
       [z3c.autoinclude.plugin]
       target = plone
       """,
-      setup_requires=["PasteScript"],
-      paster_plugins=["templer.localcommands"],
       )
