@@ -40,6 +40,7 @@
   <include package="webcouturier.dropdownmenu" />
   <include package="collective.anysurfer" />
   <include package="cirb.footersitemap" />
-  <include package="plonetheme.slrb" />  
+  <include package="plonetheme.slrb" />
   <include package="plone.app.theming" />
+  <include package="collective.js.galleriffic" />
 </configure>

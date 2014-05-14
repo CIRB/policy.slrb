@@ -61,7 +61,8 @@ setup(name='policy.slrb',
           'webcouturier.dropdownmenu',
           'cirb.footersitemap',
           'collective.anysurfer',
-          'plonetheme.slrb'
+          'plonetheme.slrb',
+          'collective.js.galleriffic',
       ],
       extras_require={'test': ['plone.app.testing']},
       entry_points="""
